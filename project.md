@@ -33,10 +33,10 @@ Analyze (or reanalyze) some of your own real data, so that it's immediately usef
 The class project can be submitted as either:
 
 1. a jupyter notebook (`.ipynb`) with embedded figures, optionally submit source data as well if possible
-2. a python script in a `.py` file, with figures saved separately to `.png` or `.pdf` files, and source data included as well
+2. a python script in a `.py` file, with figures saved separately as `.png` or `.pdf` files, and source data included as well
 
 Submit directly to Martin, either on a USB stick or via email, or post the files somewhere and send Martin the link.
 
 ### Due date:
 
-August 7, 2017
+July 10, 2018

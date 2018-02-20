@@ -1,13 +1,13 @@
 ## This file configures your site
 
 # Site name (displayed in the header), access with {{ site.name }}:
-name: SciPyCourse2017
+name: SciPyCourse2018
 
 # Site tagline (displayed in the header), access with {{ site.tagline }}:
-tagline: Introduction to Scientific Analysis in Python, LMU, 2017
+tagline: Introduction to Scientific Analysis in Python, LMU, 2018
 
 # Path to GitHub respository, appended to https://github.com/, access with {{ site.repo }}:
-repo: SciPyCourse2017
+repo: SciPyCourse2018
 
 ## other configuration options:
 markdown: kramdown

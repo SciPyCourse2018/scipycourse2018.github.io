@@ -4,16 +4,13 @@ layout: index
 #tagline: page tagline
 ---
 
-**Tuesdays, April 25 to July 25, 2017**<br>
+**12 classes on Tuesdays, April 10 to July 3, 2018** (May 1 is a holiday)<br>
 **LMU Biozentrum, Room D00.013**<br>
-**Lecture: 13-14:30; Exercise class: 14:30-16; 3 ECTS total**
+**13-15:30, 3 ECTS total**
 
-**NOTE: On July 18, 2017, the class will be held in room B01.019 (small lecture theatre)**
+Taught by [Martin Spacek](http://mspacek.github.io)
 
-Taught by [Martin Spacek](http://mspacek.github.io) (lecture) and [Nick Del
-Grosso](https://github.com/neuroneuro15) (exercise class)
-
-Class notes and files: <https://github.com/SciPyCourse2017/notes>
+Class notes and files: <https://github.com/SciPyCourse2018/notes>
 
 # Description
 
@@ -26,13 +23,13 @@ Introduces various key Python libraries, and provides example problems. Students
 encouraged to bring their own specific data analysis problems to class, for immediate
 applicability to their work, culminating in a course project. Basic command line operations
 and code version control with Git will also be covered. Students are expected to bring their
-own laptop. A minimal level of attendance and participation is required in both the lecture
-and the exercise class, but no homework will be assigned.
+own laptop. A minimal level of attendance and participation is required, and minimal homework
+exercises will be assigned.
 
 This course corresponds to lectures no. 19291 and 19292 in the official [course
-listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=636766&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung).
+listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=670358&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung).
 
-# Outline
+# Class outline
 
 1. Python basics
 2. Python basics 2
@@ -47,8 +44,9 @@ listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&s
 11. organizing code, data, results; [version
 control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) with
 [Git](https://git-scm.com/); work on project
-12. hierarchical indexing in pandas; work on project
-13. dimension reduction & clustering; work on project
+12. options:
+    - hierarchical indexing in pandas; work on project
+    - dimension reduction & clustering; work on project
 
 # Class project
 
