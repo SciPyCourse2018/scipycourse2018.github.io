@@ -23,8 +23,8 @@ Introduces various key Python libraries, and provides example problems. Students
 encouraged to bring their own specific data analysis problems to class, for immediate
 applicability to their work, culminating in a course project. Basic command line operations
 and code version control with Git will also be covered. Students are expected to bring their
-own laptop. A minimal level of attendance and participation is required, and minimal homework
-exercises will be assigned.
+own laptop. A minimal level of attendance (9/12 classes) and participation is required, and
+minimal homework exercises will be assigned.
 
 This course corresponds to course no. 19343 in the official [course
 listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=670358&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung).
