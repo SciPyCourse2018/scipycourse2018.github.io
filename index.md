@@ -10,7 +10,9 @@ layout: index
 
 Taught by [Martin Spacek](http://mspacek.github.io)
 
+<!---
 Class notes and files: <https://github.com/SciPyCourse2018/notes>
+--->
 
 # Description
 
