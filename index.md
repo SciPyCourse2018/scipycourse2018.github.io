@@ -29,7 +29,7 @@ own laptop. A minimal level of attendance (9/12 classes) and participation is re
 minimal homework exercises will be assigned.
 
 This course corresponds to course no. 19343 in the official [course
-listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=670358&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung).
+listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=670358&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung). Note that the times and dates listed there are not entirely correct.
 
 # Class outline
 
