@@ -1,6 +1,6 @@
 ### Project goal:
 
-Analyze (or reanalyze) some of your own real data, so that it's immediately useful to you. If you don't have any of your own data, try and find some dataset that interests you. Failing that, Nick or I can find a dataset for you to work on.
+Analyze (or reanalyze) some of your own real data, so that it's immediately useful to you. If you don't have any of your own data, try and find some dataset that interests you. Failing that, I can find a dataset for you to work on.
 
 ### Required:
 
@@ -10,6 +10,7 @@ Analyze (or reanalyze) some of your own real data, so that it's immediately usef
 - use at least one numpy array
 - use short but descriptive variable names in your code
 - document your code: use markdown in your `.ipynb` and/or directly comment your python code with `#` or `'''` or `"""`
+- try and be succint, while keeping the code readable
 
 ### Plus do at least 6 of the following:
 
