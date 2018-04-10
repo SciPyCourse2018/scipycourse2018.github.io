@@ -65,6 +65,8 @@ These are all free, and require no signup or login:
 * <http://interactivepython.org/runestone/static/thinkcspy/index.html> - also has online
   editable and executable code, plus quizzes and videos
 
+* The official [Python tutorial](https://docs.python.org/3/tutorial/) is also quite good, but doesn't really get started until [section 3](https://docs.python.org/3/tutorial/introduction.html)
+
 ### IPython and Jupyter
 
 * [IPython](http://ipython.org) is an improved Python interactive terminal. This is
