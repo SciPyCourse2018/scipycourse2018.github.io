@@ -35,9 +35,9 @@ listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&s
 2. Python basics 2
 3. collections
 4. [numpy](http://numpy.org) 1D arrays
-5. numpy data types & file operations
-6. plotting with [matplotlib](http://matplotlib.org), matrices
-7. statistics
+5. numpy data types
+6. plotting with [matplotlib](http://matplotlib.org), numpy file operations
+7. matrices, statistics
 8. data analysis with [Pandas](http://pandas.pydata.org)
 9. review
 10. image analysis
