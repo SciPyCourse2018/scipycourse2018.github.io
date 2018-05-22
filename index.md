@@ -38,17 +38,19 @@ listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&s
 3. collections
 4. [numpy](http://numpy.org) 1D arrays
 5. numpy data types
-6. plotting with [matplotlib](http://matplotlib.org), numpy file operations
-7. matrices, statistics
-8. data analysis with [Pandas](http://pandas.pydata.org)
-9. review
+6. numpy file operations, plotting with [matplotlib](http://matplotlib.org)
+7. more matplotlib, matrices
+8. statistics
+9. data analysis with [Pandas](http://pandas.pydata.org)
 10. image analysis
 11. organizing code, data, results; [version
 control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) with
 [Git](https://git-scm.com/); work on project
 12. options:
-    - hierarchical indexing in pandas; work on project
-    - dimension reduction & clustering; work on project
+    - review
+    - dimension reduction & clustering
+    - hierarchical indexing in pandas
+    - work on project
 
 # Class project
 
@@ -101,3 +103,5 @@ These are all free, and require no signup or login:
 * [Numpy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 
 * [Numpy for MATLAB users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html)
+
+* [matplotlib](https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet)
