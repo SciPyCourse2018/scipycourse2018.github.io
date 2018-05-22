@@ -104,4 +104,4 @@ These are all free, and require no signup or login:
 
 * [Numpy for MATLAB users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html)
 
-* [matplotlib](https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet)
+* [matplotlib](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
