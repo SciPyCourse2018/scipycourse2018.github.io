@@ -35,7 +35,7 @@ listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&s
 
 1. Python basics
 2. Python basics 2
-3. collections
+3. [collections](https://docs.python.org/3/tutorial/datastructures.html)
 4. [numpy](http://numpy.org) 1D arrays
 5. numpy data types
 6. numpy file operations, plotting with [matplotlib](http://matplotlib.org)
