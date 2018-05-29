@@ -40,9 +40,9 @@ listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&s
 5. numpy data types
 6. numpy file operations, plotting with [matplotlib](http://matplotlib.org)
 7. more matplotlib, matrices
-8. statistics
+8. image analysis
 9. data analysis with [Pandas](http://pandas.pydata.org)
-10. image analysis
+10. statistics
 11. organizing code, data, results; [version
 control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) with
 [Git](https://git-scm.com/); work on project
