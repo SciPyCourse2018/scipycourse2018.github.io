@@ -20,7 +20,6 @@ Analyze (or reanalyze) some of your own real data, so that it's immediately usef
 - write at least one function, include a docstring
 - print out some results in at least one nicely formatted string, using string operator `%` or `.format()` method
 - use at least one vectorized math operation on an array
-- use at least one matrix operation on a 2D array
 - create a figure with multiple axes (i.e., use `plt.subplots(nrows, ncols)`)
 - do a statistical test - show that the test assumptions hold for your data
 - manipulate and analyze data in a pandas series or dataframe
@@ -33,8 +32,8 @@ Analyze (or reanalyze) some of your own real data, so that it's immediately usef
 
 The class project can be submitted as either:
 
-1. a jupyter notebook (`.ipynb`) with embedded figures, optionally submit source data as well if possible
-2. a python script in a `.py` file, with figures saved separately as `.png` or `.pdf` files, and source data included as well
+1. a python script in a `.py` file, with figures saved separately as `.png` or `.pdf` files, and source data included as well
+2. a jupyter notebook (`.ipynb`) with embedded figures, optionally submit source data as well if possible
 
 Submit directly to Martin, either on a USB stick or via email, or post the files somewhere and send Martin the link.
 
