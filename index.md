@@ -8,6 +8,8 @@ layout: index
 **LMU Biozentrum, Room D00.013**<br>
 **13-15:30, 3 ECTS total**
 
+**NOTE: Class 11 on June 26 will be from 2-4 pm**
+
 **NOTE: The last class has been rescheduled to Wednesday, July 4 at 15:00 in the BMC (Großhaderner Str. 9), room N01.019**
 
 Taught by [Martin Spacek](http://mspacek.github.io)
